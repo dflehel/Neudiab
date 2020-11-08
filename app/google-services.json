@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506494171204",
+    "firebase_url": "https://diabet-80a03.firebaseio.com",
+    "project_id": "diabet-80a03",
+    "storage_bucket": "diabet-80a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506494171204:android:e90fca340f484de2382411",
+        "android_client_info": {
+          "package_name": "hu.obuda.university.neudiab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506494171204-o4sn01u01be95klph514o9mlaslbpaee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLZo_ZLeA0fjjfd3MK4eA4ObnZrSjZlG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506494171204-o4sn01u01be95klph514o9mlaslbpaee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
